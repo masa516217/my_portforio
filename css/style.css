@@ -285,6 +285,11 @@ img {
   text-align: center;
 }
 
+.mail-img {
+  width: 130px;
+  height: 100px;
+}
+
 .contact-item:not(:last-child) {
   margin-right: 10px;
 }
